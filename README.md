@@ -10,7 +10,7 @@ Telegram交流反馈群组：https://t.me/eooceu
 huggingface视频教程地址：https://youtu.be/XERxg9AODeo
 </div>
 
-## [web-hosting部署指南](https://github.com/eooce/node-ws/blob/main/web-hosting.md) （适用于所有带nodejs App功能DirectAdmin面板）
+## web-hosting部署指南（适用于所有带nodejs App功能DirectAdmin面板）
 
 * 用于node环境的玩具和容器，基于node三方ws库，vless+trojan双协议，集成哪吒探针服务(v0或v1)，可自行添加环境变量
 
@@ -34,7 +34,7 @@ huggingface视频教程地址：https://youtu.be/XERxg9AODeo
 * js混肴地址：https://obfuscator.io
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/eooce/node-ws/dev/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/diyros/node-ws/dev/install.sh)
 ```
 
 ### 使用cloudflare workers 或 snippets 反代域名给节点套cdn加速
@@ -74,6 +74,6 @@ function getRandomArray(array) {
 - 通过本项目直接或间接获利（例如通过广告、SaaS服务等）；
 - 在公司或组织内部作为商业工具使用。
 
-如需获得商业授权，请联系原作者：[admin@eooce.com]
+如需获得商业授权，请联系原作者：[admin@viptv.work]
 
-版权所有 ©2025 `eooce`
+版权所有 ©2025 `viptv`
